@@ -15,7 +15,7 @@ train_dataset = MY_MNIST_Train(root1='./Pt/STL10_Val_GY_20000-128-128.pt',
 print('done')
 torch.cuda.empty_cache()
 
-batch_size = 10
+batch_size = 100
 numpattern = 1024  # 是参数pattern的数量
 px = 128
 pattern = torch.load('./Pt/weights_115.pt')
