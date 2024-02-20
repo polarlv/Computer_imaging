@@ -15,6 +15,7 @@ pycharm 2021.3.3(Community Edition)
 注意**train2.py**和**test_gpu**文件内读取数据、保存数据的路径需要改成自己的存放路径。**test_gpu**为验证训练网络性能的程序。
 
 # 调参
+待补充
 
 # 示意图
 ![img](https://github.com/polarlv/Computer_imaging/blob/main/%E5%9B%BE%E5%83%8F%E9%87%8D%E5%BB%BA%E7%A4%BA%E6%84%8F%E5%9B%BE.jpg)
